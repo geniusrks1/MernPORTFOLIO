@@ -1,12 +1,7 @@
 node_modules/
-client/node_modules/
-client/public/
-client/src/
+
 /.env
 .env
 
 
 /node_modules
-/client/node_modules
-/client/public
-/client/src
